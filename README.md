@@ -48,7 +48,7 @@ Contours are extracted to locate and count each sapling.
 
 ---
 
-### 🧠 Key Results
+###  Key Results
 
 * Detected saplings are marked with **green bounding boxes**
 * Dead saplings are marked with **red bounding boxes**
@@ -58,7 +58,7 @@ Contours are extracted to locate and count each sapling.
 
 
 
-### 📌 Future Enhancements
+###  Future Enhancements
 
 * Integrate object detection (YOLOv8 or Detectron2) for better accuracy
 * Deploy on mobile drone software for real-time sapling health monitoring
@@ -67,7 +67,7 @@ Contours are extracted to locate and count each sapling.
 
 ---
 
-### 🤝 Acknowledgements
+###  Acknowledgements
 
 * Hackathon: **Kshitij Green AI**, IIT Kharagpur
 * Region of focus: **Odisha, India**
